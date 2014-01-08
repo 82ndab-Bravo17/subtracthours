@@ -12,10 +12,16 @@ Called with the number of hours x to subtract from the current time, returns the
 then
 
 Day of Month (1-31)
+
 Month (1-12)
+
 Year (4 digits)
+
 Hour (0-23)
+
 Minute (0-59)
+
 Seconds (0-59)
+
 
 
