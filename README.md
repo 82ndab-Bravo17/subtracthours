@@ -12,7 +12,7 @@ eg  call compile ("subtracthours" callExtension ["10"]) will give you what the t
 
 
 
-1st value 0 if success, 1 if a error ocurred
+1st value 0 if success, 1 if a error occurred
 then
 
 Day of Month (1-31)
